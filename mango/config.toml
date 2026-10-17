@@ -1,0 +1,22 @@
+source = [
+  "./scroller.toml",
+  "./tile.toml",
+  "./rules.toml",
+  "./binds.toml",
+  "./autostart.toml",
+  "./env.toml",
+  "./input.toml",
+  "./misc.toml",
+  "./decoration.toml",
+  "./color.toml",
+]
+
+
+
+
+
+
+
+
+
+

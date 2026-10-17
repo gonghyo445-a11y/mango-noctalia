@@ -1,0 +1,6 @@
+[global]
+new_is_master = 1
+default_master_factor = 0.55
+default_master_count = 1
+tag_num = 9
+tag_gather = 0
